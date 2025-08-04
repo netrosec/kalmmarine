@@ -1,7 +1,4 @@
-timestamp,tank_name,latitude,longitude,volume_liters,pressure_kpa,temperature_c
-2025-08-04T00:00:00,alpha1_diesel_storage,5.58333,5.16667,60000.0,101.20,35.07
-2025-08-04T00:00:30,alpha1_diesel_storage,5.58333,5.16667,59166.67,101.40,35.07
-2025-08-04T00:01:00,alpha1_diesel_storage,5.58333,5.16667,58333.33,101.31,35.14
-...
-2025-08-04T00:29:30,alpha1_diesel_storage,5.58333,5.16667,10833.33,101.22,34.96
-2025-08-04T00:30:00,alpha1_diesel_storage,5.58333,5.16667,10000.0,101.35,35.11
+tank_name,metric,value
+alpha1_diesel_storage,volume_liters,10000.0
+alpha1_diesel_storage,pressure_kpa,101.4
+alpha1_diesel_storage,temperature_c,34.82
